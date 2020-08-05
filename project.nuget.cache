@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1vTZ39gj2NExU312+3f8SKWExrwkV69wTHbiASJyEmQHqXZ/9eCXgsEJGx1GI+I65l4JeH11kmfvvGl96t8JkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\engga\\source\\repos\\elkcar\\elkcar\\elkcar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\engga\\.nuget\\packages\\elasticsearch.net\\7.8.2\\elasticsearch.net.7.8.2.nupkg.sha512",
+    "C:\\Users\\engga\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\engga\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\engga\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
